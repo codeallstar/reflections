@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You run git status to see what is all in there and what needs to be committed.
+

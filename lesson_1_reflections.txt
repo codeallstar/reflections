@@ -24,3 +24,11 @@ How can you use the commands git log and git diff to view the history of files?
 
 The git log file can be used to see all the commits and git diff can be used to compare to files and see what changes were made.
 
+How might using version control make you more confident to make changes that could break something?
+
+With version control I could try new things and then revert back with the cli if it breaks something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to learn more about the revision tree.
+

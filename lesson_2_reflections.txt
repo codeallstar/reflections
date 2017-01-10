@@ -18,4 +18,12 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams helped me visualize the parent child relationship between commits.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is that all commits are added in order of timestamp. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is faster, but manual merging needs to happen if there are questions or conflicts on what needs to be added.
+
 
